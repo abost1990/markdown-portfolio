@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Pokemon
+  * Charizard :blue_heart:
+  * Zangoose 🎮 
+  * Starmie ⭐️ 
