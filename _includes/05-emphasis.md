@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**First**_ and foremost, I am a **POKEMON** Master! 
+I can *beatbox* like you can't believe!
+In saying all of this, I 100% _**GET THAT MONEY!!!**_
